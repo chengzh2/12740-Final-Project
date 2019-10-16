@@ -1,1 +1,11 @@
 # 12740-Final-Project
+
+## Introduction
+The Waking-up System for Rear Window Defogger is an automated anti-fog system. This system combines the fog detection, automatic activation of defogger and driver notice properties. The fog detection property is achieved by gathering air temperature in the vehicle and the temperature and humidity of rear window glass. The system can predict the formation of fog and activate the fan at the rear window and beep the buzzer once to alert the driver. The fan would stop as the rear window is cleared. Furthermore, the users can monitor the temperature and humidity change in their vehicles during a period on the website “OpenChirp”. 
+
+## Motivation
+Vehicle windshield fogging is considered as a potential safety problem. The presence of fog on the windshield blurs the window and blocks drivers’ vision. Especially in areas with cold winters, drivers are more likely to turn on the heaters, which result in fog on the inside of windows. A defogger plays an important role in clearing up the fogged windshield by blowing out warm air. Normally, the front window defogger is activated by drivers manually, as they noticed the formation of fog. However, the drivers rarely could notice the formation of fog on the rear window on time, because they pay more attention to the front. When deciding to make a turn or back up, they just realize the fog on the rear window. With blocked backward sight, accidents are likely to happen. 
+The extreme cold and snowy winter in Pittsburgh cause more driving safety concerns than the warm area. Therefore, the Waking-up System for Rear Window Defogger can play a more crucial and practical role for traffic accident prevention.  
+
+## Goals: 
+The goal of this project is to justify the accessibility of fog prediction and the automatic defogger in the system. The whole system is installed and tested inside a glass box. The final project can detect the fog on the glass wall by gathering the air temperature and relative humidity and temperature on the glass. The automatic defogger can activate and stop as the numerical data reaches the threshold. Furthermore, the buzzer is capable to beep one time and stop as the numerical data overcomes the threshold. If the sensitivity and predictive capacity increase, the project may be able to apply to real vehicles. 
